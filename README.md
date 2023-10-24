@@ -4,3 +4,6 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=daichi0812&theme=tokyonight&colum=7)](https://github.com/ryo-ma/github-progfile-trophy)
+
+# My Skill (Programming Languages, Frameworkds and Tools)
+<img src="https://skillicons.dev/icons?i=html,css,js,java,c++,c,python,github,vscode,discord" /><br/><br />
