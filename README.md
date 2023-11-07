@@ -6,4 +6,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=daichi0812&theme=tokyonight&colum=7)](https://github.com/ryo-ma/github-progfile-trophy)
 
 # Now Training
-<img height="150px" src="https://skillicons.dev/icons?i=html,css,js,react,java,c,python,github,vscode,discord" /><br/><br />
+<img height="150px" src="https://skillicons.dev/icons?i=html,css,js,react,java,c,github,vscode,discord" /><br/><br />
