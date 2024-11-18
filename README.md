@@ -16,13 +16,15 @@
   </a>
 </p>
 
+## Language
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=daichi0812&theme=tokyonight)
+
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daichi0812&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daichi0812&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daichi0812&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=daichi0812&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daichi0812&theme=tokyonight&utcOffset=9)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=daichi0812&theme=tokyonight)
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=daichi0812&theme=tokyonight)
