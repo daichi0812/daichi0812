@@ -16,9 +16,6 @@
   </a>
 </p>
 
-## Language
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=daichi0812&theme=tokyonight)
-
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daichi0812&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daichi0812&theme=tokyonight)
@@ -26,8 +23,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=daichi0812&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daichi0812&theme=tokyonight&utcOffset=9)
 
+## Language & Skills
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=daichi0812&theme=tokyonight)
+
+<img height="150px" src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,c,cpp,github,vscode,discord" /><br/><br />
+
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=daichi0812&theme=tokyonight)
-
-# Now Training
-<img height="150px" src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,vite,c,cpp,github,vscode,discord" /><br/><br />
