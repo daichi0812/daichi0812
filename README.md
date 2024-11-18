@@ -26,7 +26,7 @@
 ## Language & Skills
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=daichi0812&theme=tokyonight)
 
-<img height="150px" src="https://skillicons.dev/icons?i=cpp,c,ts,go,react,next,auth.js" /><br/><br />
+<img height="150px" src="https://skillicons.dev/icons?i=cpp,c,ts,go,react,next,vscode,xcode,dicord" /><br/><br />
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=daichi0812&theme=tokyonight)
