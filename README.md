@@ -14,8 +14,8 @@
   <a href="https://zenn.dev/daichi0812">
     <img height="20" src="https://badgen.org/img/zenn/daichi0812/articles?style=plastic" />
   </a>
-  ![my_atcoder_rating](https://badgen.org/img/atcoder/ユーザー名/rating/algorithm?style=flat)
-  ![my_zenn_likes](https://badgen.org/img/zenn/ユーザー名/likes?style=flat)
+  ![my_atcoder_rating](https://badgen.org/img/atcoder/daichi0812/rating/algorithm?style=flat)
+  ![my_zenn_likes](https://badgen.org/img/zenn/daichi0812/likes?style=flat)
 </p>
 
 ## Stats
