@@ -30,7 +30,7 @@
 ## Language & Skills
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=daichi0812&theme=tokyonight)
 
-<img height="150px" src="https://skillicons.dev/icons?i=cpp,c,ts,react,next,go,docker,vscode,discord,figma,md" /><br/><br />
+<img height="100px" src="https://skillicons.dev/icons?i=cpp,c,ts,react,next,go" /><br/><br />
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=daichi0812&theme=tokyonight)
