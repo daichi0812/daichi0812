@@ -13,10 +13,10 @@
   </a>
   <a href="https://zenn.dev/daichi0812">
     <img height="20" src="https://badgen.org/img/zenn/daichi0812/articles?style=plastic" />
-    <img alt="my_zenn_likes" src="https://badgen.org/img/zenn/ユーザー名/likes?style=flat">
+    <img alt="my_zenn_likes" src="https://badgen.org/img/zenn/daichi0812/likes?style=flat">
   </a>
   <a href="https://atcoder.jp/users/Daichi0812">
-    <img alt="my_atcoder_rating" src="https://badgen.org/img/atcoder/ユーザー名/rating/algorithm?style=flat">
+    <img alt="my_atcoder_rating" src="https://badgen.org/img/atcoder/Daichi0812/rating/algorithm?style=flat">
   </a>  
 </p>
 
