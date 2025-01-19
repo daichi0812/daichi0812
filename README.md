@@ -5,9 +5,9 @@
   <a href="https://github.com/daichi0812">
     <img height="20" src="https://img.shields.io/github/followers/daichi0812?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/uNiteD8128">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/uNiteD8128/posts.svg" />
-    <img height="20" src="https://qiita-badge.apiapi.app/s/uNiteD8128/contributions.svg" />
+  <a href="http://qiita.com/uN1teD8128">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/uN1teD8128/posts.svg" />
+    <img height="20" src="https://qiita-badge.apiapi.app/s/uN1teD8128/contributions.svg" />
   </a>
   <a href="https://zenn.dev/daichi0812">
     <img height="20" src="https://badgen.org/img/zenn/daichi0812/articles?style=plastic" />
