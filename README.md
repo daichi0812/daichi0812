@@ -12,13 +12,6 @@
       alt="Qiita Articles"
     />
   </a>
-  <a href="https://qiita.com/Glound">
-    <img
-      height="20"
-      src="https://badgen.org/img/qiita/Glound/likes?style=flat"
-      alt="Qiita Likes"
-    />
-  </a>
   <a href="https://atcoder.jp/users/Daichi0812">
     <img alt="my_atcoder_rating" src="https://badgen.org/img/atcoder/Daichi0812/rating/algorithm">
   </a>
