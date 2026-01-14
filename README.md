@@ -5,9 +5,12 @@
   <a href="https://github.com/daichi0812">
     <img height="20" src="https://img.shields.io/github/followers/daichi0812?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://zenn.dev/glound">
-    <img height="20" src="https://badgen.org/img/zenn/glound/articles?style=plastic" />
-    <img alt="my_zenn_likes" src="https://badgen.org/img/zenn/glound/likes?style=flat">
+  <a href="https://qiita.com/あなたのQiitaID">
+    <img
+      height="20"
+      src="https://img.shields.io/badge/Qiita-55C500?style=flat&logo=qiita&logoColor=white"
+      alt="Qiita Profile"
+    />
   </a>
   <a href="https://atcoder.jp/users/Daichi0812">
     <img alt="my_atcoder_rating" src="https://badgen.org/img/atcoder/Daichi0812/rating/algorithm">
@@ -32,6 +35,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=daichi0812&theme=tokyonight)
 
 <img height="60px" src="https://skillicons.dev/icons?i=python,ts,cpp" /><br/><br />
-
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=daichi0812&theme=tokyonight)
