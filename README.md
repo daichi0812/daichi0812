@@ -8,8 +8,15 @@
   <a href="https://qiita.com/Glound">
     <img
       height="20"
-      src="https://img.shields.io/badge/Qiita-55C500?style=flat&logo=qiita&logoColor=white"
-      alt="Qiita Profile"
+      src="https://badgen.org/img/qiita/Glound/contributions?style=flat"
+      alt="Qiita Articles"
+    />
+  </a>
+  <a href="https://qiita.com/Glound">
+    <img
+      height="20"
+      src="https://badgen.org/img/qiita/Glound/likes?style=flat"
+      alt="Qiita Likes"
     />
   </a>
   <a href="https://atcoder.jp/users/Daichi0812">
