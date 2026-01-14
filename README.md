@@ -5,7 +5,7 @@
   <a href="https://github.com/daichi0812">
     <img height="20" src="https://img.shields.io/github/followers/daichi0812?label=follow&logo=github&style=flat" />
   </a>
-  <a href="https://qiita.com/あなたのQiitaID">
+  <a href="https://qiita.com/Glound">
     <img
       height="20"
       src="https://img.shields.io/badge/Qiita-55C500?style=flat&logo=qiita&logoColor=white"
